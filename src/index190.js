@@ -6,7 +6,7 @@ import ReactDOM from 'react-dom';
 /*import CSS file*/
 import './index.css';
 //import App parent app
-import App from './containers/App';
+import App from './App';
 //tachyons is a library I need to install and import - it allows for shortcuts in element formatting - I use it in the Card.js file.
 import 'tachyons';
 
